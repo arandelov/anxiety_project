@@ -1,2 +1,2 @@
 # anxiety_project
-Exploring how various features affect anxiety levels in individuals using ML models.
+Using ML models to explore how various features affect anxiety levels in individuals.
